@@ -1,0 +1,13 @@
+C:\matlog\src\Matlog\bdd\bddio.c;C:\matlog\src\Matlog\bdd\bdd\x64\Release\bddio.obj
+C:\matlog\src\Matlog\bdd\bddop.c;C:\matlog\src\Matlog\bdd\bdd\x64\Release\bddop.obj
+C:\matlog\src\Matlog\bdd\bddtest.cxx;C:\matlog\src\Matlog\bdd\bdd\x64\Release\bddtest.obj
+C:\matlog\src\Matlog\bdd\bvec.c;C:\matlog\src\Matlog\bdd\bdd\x64\Release\bvec.obj
+C:\matlog\src\Matlog\bdd\cache.c;C:\matlog\src\Matlog\bdd\bdd\x64\Release\cache.obj
+C:\matlog\src\Matlog\bdd\cppext.cxx;C:\matlog\src\Matlog\bdd\bdd\x64\Release\cppext.obj
+C:\matlog\src\Matlog\bdd\fdd.c;C:\matlog\src\Matlog\bdd\bdd\x64\Release\fdd.obj
+C:\matlog\src\Matlog\bdd\imatrix.c;C:\matlog\src\Matlog\bdd\bdd\x64\Release\imatrix.obj
+C:\matlog\src\Matlog\bdd\kernel.c;C:\matlog\src\Matlog\bdd\bdd\x64\Release\kernel.obj
+C:\matlog\src\Matlog\bdd\pairs.c;C:\matlog\src\Matlog\bdd\bdd\x64\Release\pairs.obj
+C:\matlog\src\Matlog\bdd\prime.c;C:\matlog\src\Matlog\bdd\bdd\x64\Release\prime.obj
+C:\matlog\src\Matlog\bdd\reorder.c;C:\matlog\src\Matlog\bdd\bdd\x64\Release\reorder.obj
+C:\matlog\src\Matlog\bdd\tree.c;C:\matlog\src\Matlog\bdd\bdd\x64\Release\tree.obj

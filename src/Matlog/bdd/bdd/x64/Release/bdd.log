@@ -1,0 +1,37 @@
+﻿  bddio.c
+C:\matlog\src\Matlog\bdd\bddio.c(386,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\matlog\src\Matlog\bdd\bddio.c(480,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\matlog\src\Matlog\bdd\bddio.c(493,8): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\matlog\src\Matlog\bdd\bddio.c(499,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\matlog\src\Matlog\bdd\bddio.c(506,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\matlog\src\Matlog\bdd\bddio.c(546,11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bddop.c
+C:\matlog\src\Matlog\bdd\bddop.c(945,33): warning C4018: >: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(1156,33): warning C4018: >: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(1189,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(1189,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(1280,17): warning C4018: >: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(1295,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(1393,17): warning C4018: >: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(1696,28): warning C4018: >: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(1979,17): warning C4018: >: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(1979,43): warning C4018: >: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(2131,21): warning C4018: >: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(2325,33): warning C4018: >: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(2337,34): warning C4018: >: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(2422,33): warning C4018: >: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\bddop.c(2436,34): warning C4018: >: несоответствие типов со знаком и без знака
+  bvec.c
+  cache.c
+  fdd.c
+  imatrix.c
+  kernel.c
+C:\matlog\src\Matlog\bdd\kernel.c(1187,21): warning C4018: >: несоответствие типов со знаком и без знака
+C:\matlog\src\Matlog\bdd\kernel.c(1246,21): warning C4018: >: несоответствие типов со знаком и без знака
+  pairs.c
+  prime.c
+  reorder.c
+  tree.c
+  bddtest.cxx
+  cppext.cxx
+  bdd.vcxproj -> C:\matlog\src\Matlog\bdd\x64\Release\bdd.lib

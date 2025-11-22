@@ -1,0 +1,68 @@
+﻿Build started 11.11.2015 11:37:48.
+     1>Project "E:\Irina\2015\nov2015\ML.2015\Курсовая\bdd\bdd.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt bddio.c bddop.c bvec.c cache.c fdd.c imatrix.c kernel.c pairs.c prime.c reorder.c tree.c
+         bddio.c
+     1>bddio.c(320): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>bddio.c(386): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>bddio.c(480): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>bddio.c(493): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>bddio.c(499): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>bddio.c(506): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>bddio.c(546): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+         bddop.c
+     1>bddop.c(945): warning C4018: '>' : signed/unsigned mismatch
+     1>bddop.c(1156): warning C4018: '>' : signed/unsigned mismatch
+     1>bddop.c(1189): warning C4018: '<' : signed/unsigned mismatch
+     1>bddop.c(1280): warning C4018: '>' : signed/unsigned mismatch
+     1>bddop.c(1295): warning C4018: '<' : signed/unsigned mismatch
+     1>bddop.c(1393): warning C4018: '>' : signed/unsigned mismatch
+     1>bddop.c(1696): warning C4018: '>' : signed/unsigned mismatch
+     1>bddop.c(1979): warning C4018: '>' : signed/unsigned mismatch
+     1>bddop.c(2131): warning C4018: '>' : signed/unsigned mismatch
+     1>bddop.c(2325): warning C4018: '>' : signed/unsigned mismatch
+     1>bddop.c(2337): warning C4018: '>' : signed/unsigned mismatch
+     1>bddop.c(2422): warning C4018: '>' : signed/unsigned mismatch
+     1>bddop.c(2436): warning C4018: '>' : signed/unsigned mismatch
+         bvec.c
+         cache.c
+         fdd.c
+         imatrix.c
+         kernel.c
+     1>kernel.c(1187): warning C4018: '>' : signed/unsigned mismatch
+     1>kernel.c(1246): warning C4018: '>' : signed/unsigned mismatch
+         pairs.c
+         prime.c
+         reorder.c
+     1>reorder.c(1629): warning C4550: expression evaluates to a function which is missing an argument list
+         tree.c
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt bddtest.cxx cppext.cxx
+         bddtest.cxx
+         cppext.cxx
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"E:\Irina\2015\nov2015\ML.2015\Курсовая\bdd\Release\bdd.lib" /NOLOGO /LTCG Release\bddio.obj
+         Release\bddop.obj
+         Release\bddtest.obj
+         Release\bvec.obj
+         Release\cache.obj
+         Release\cppext.obj
+         Release\fdd.obj
+         Release\imatrix.obj
+         Release\kernel.obj
+         Release\pairs.obj
+         Release\prime.obj
+         Release\reorder.obj
+         Release\tree.obj
+         bdd.vcxproj -> E:\Irina\2015\nov2015\ML.2015\Курсовая\bdd\Release\bdd.lib
+     1>Done Building Project "E:\Irina\2015\nov2015\ML.2015\Курсовая\bdd\bdd.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.36
