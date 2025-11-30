@@ -1,7 +1,9 @@
-﻿  Создание кода
-  Previous IPDB not found, fall back to full compilation.
-  All 139 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+﻿  main.cpp
+  Создание кода
+  3 of 295 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
-  Matlog.vcxproj -> C:\matlog\src\Matlog\x64\Release\Matlog.exe
+  Matlog.vcxproj -> C:\Users\salam\source\repos\-\src\Matlog\x64\Release\Matlog.exe
   "pwsh.exe" не является внутренней или внешней
   командой, исполняемой программой или пакетным файлом.
