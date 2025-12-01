@@ -218,6 +218,26 @@ void add_type1_constraints(bdd& F)
     F &= p[3][4][2];
 }
 
+void add_type2_constraints(bdd& F)
+{
+    auto add_t2_c = [&](int k1, int j1, int k2, int j2)
+        {
+            for (int i = 0; i < N; i++) {
+                F &= (!p[k1][i][k2]) | p[k2][i][j2];
+            }
+        };
+
+
+	add_t2_c(0, 1, 3, 2); // If property 0 = 1 then property 3 = 2
+
+	add_t2_c(1, 2, 4, 3); // If property 1 = 2 then property 4 = 3
+    
+	add_t2_c(2, 3, 0, 4); // If property 2 = 3 then property 0 = 4
+
+	add_t2_c(3, 4, 1, 0); // If property 3 = 4 then property 1 = 0
+    
+}
+
 // ----------------------------- main -----------------------------------
 
 int main()
@@ -238,6 +258,12 @@ int main()
 
     // Ограничения 1-го рода
     add_type1_constraints(F);
+
+    add_type2_constraints(F);
+
+	//add_type3_constraints(F);
+
+	//add_type4_constraints(F);
 
     // Считаем и выводим решения
     out.open("solutions_small.txt");

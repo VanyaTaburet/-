@@ -1,8 +1,8 @@
 ﻿  main.cpp
   Создание кода
-  3 of 295 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  9 of 299 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
   Matlog.vcxproj -> C:\Users\salam\source\repos\-\src\Matlog\x64\Release\Matlog.exe
   "pwsh.exe" не является внутренней или внешней
